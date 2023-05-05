@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Fare i compiti",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Fare la spesa",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Cucinare",
+      "completed": true
+    },
+    {
+      "title": "Lavare i piatti",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Mangiare",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
